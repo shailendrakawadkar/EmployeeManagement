@@ -1,0 +1,20 @@
+.footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+}
+
+.footer p{
+  text-align: center;
+  color: white;
+  margin-top: 10px;
+}
+
+
+.header{
+  background-color: black !important;
+}
+.header a{
+  color: white !important;
+}
